@@ -50,6 +50,9 @@ The Indexing in GitHub Corresponds to Indexing in my local system.
 | 29 | 4.7 | diabetes |
 | 30 | 4.8 | laptop price |
 | 31 | 5.11 | electricity-consumption-forecast-with-xgboost |
+| 32 | 6 | Deploy Machine Learning Models |
+| 33 | 7 | Online-Shoppers-Purchasing-Intention-master |
+
 
 
 
