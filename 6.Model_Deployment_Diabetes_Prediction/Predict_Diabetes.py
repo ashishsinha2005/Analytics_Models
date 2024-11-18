@@ -1,0 +1,32 @@
+import json
+import requests
+
+def predict_diabetes(BMI, Age, Glucose):
+    url = 'http://127.0.0.1:5000/diabetes/v1/predict'
+    # Convert to float to ensure numeric values are passed to the API
+    data = {"BMI": float(BMI), "Age": float(Age), "Glucose": float(Glucose)}
+    data_json = json.dumps(data)
+    headers = {'Content-type': 'application/json'}
+    response = requests.post(url, data=data_json, headers=headers)
+    
+    # Check if the response is empty
+    if response.text.strip() == '':
+        return {"error": "No response from server"}
+    
+    result = json.loads(response.text)
+    return result
+
+if __name__ == "__main__":
+    BMI = input('BMI? ')
+    Age = input('Age? ')
+    Glucose = input('Glucose? ')
+    
+    try:
+        predictions = predict_diabetes(BMI, Age, Glucose)
+        if "error" in predictions:
+            print(predictions["error"])
+        else:
+            print("Diabetic" if predictions["prediction"] == 1 else "Not Diabetic")
+            print("Confidence: " + predictions["confidence"] + "%")
+    except Exception as e:
+        print(f"Error: {e}")
