@@ -52,6 +52,7 @@ The Indexing in GitHub Corresponds to Indexing in my local system.
 | 31 | 5.11 | electricity-consumption-forecast-with-xgboost |
 | 32 | 6 | Deploy Machine Learning Models-Diabetes Classification |
 | 33 | 7 | Online-Shoppers-Purchasing-Intention-master |
+| 33 | 8 | Movie Recommendation System |
 
 
 
