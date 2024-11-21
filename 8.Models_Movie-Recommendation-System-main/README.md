@@ -74,3 +74,7 @@ pip install streamlit
 
 # Feedback
 If you have any feedback, please reach out to me at ashishsep2011@gmail.com
+
+![image alt](https://github.com/ashishsinha2005/Analytics_Models/blob/58a907772d8e0a69c111af48a073b96c7b399408/8.Models_Movie-Recommendation-System-main/Movie1.jpg)
+![image alt](https://github.com/ashishsinha2005/Analytics_Models/blob/58a907772d8e0a69c111af48a073b96c7b399408/8.Models_Movie-Recommendation-System-main/Movie2.jpg)
+![image alt](https://github.com/ashishsinha2005/Analytics_Models/blob/58a907772d8e0a69c111af48a073b96c7b399408/8.Models_Movie-Recommendation-System-main/Movie3.jpg)
