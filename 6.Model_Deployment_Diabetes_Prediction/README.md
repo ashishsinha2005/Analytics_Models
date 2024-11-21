@@ -69,7 +69,9 @@ run the application in Terminal and give input
 ## To get Output in URL
 use following code
 - python REST_API1.py (no need to run Predict_Diabetes1.py)
-- Open your browser: Navigate to the URL: and enter your server address and give input and Run 
+- Open your browser: Navigate to the URL: and enter your server address and give input and Run
+
+  ![Image Alt](https://github.com/ashishsinha2005/Analytics_Models/blob/7b2b3db5f17cffb3b3f33a5d8375dc125e952d83/6.Model_Deployment_Diabetes_Prediction/Diab3.jpg)
 
 
 
