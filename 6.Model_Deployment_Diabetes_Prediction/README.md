@@ -72,6 +72,9 @@ use following code
 - Open your browser: Navigate to the URL: and enter your server address and give input and Run
 
   ![Image Alt](https://github.com/ashishsinha2005/Analytics_Models/blob/7b2b3db5f17cffb3b3f33a5d8375dc125e952d83/6.Model_Deployment_Diabetes_Prediction/Diab3.jpg)
+   ![Image Alt](https://github.com/ashishsinha2005/Analytics_Models/blob/7b2b3db5f17cffb3b3f33a5d8375dc125e952d83/6.Model_Deployment_Diabetes_Prediction/Diab4.jpg)
+   ![Image Alt](https://github.com/ashishsinha2005/Analytics_Models/blob/7b2b3db5f17cffb3b3f33a5d8375dc125e952d83/6.Model_Deployment_Diabetes_Prediction/Diab1.jpg)
+   ![Image Alt](https://github.com/ashishsinha2005/Analytics_Models/blob/7b2b3db5f17cffb3b3f33a5d8375dc125e952d83/6.Model_Deployment_Diabetes_Prediction/Diab2.jpg)
 
 
 
