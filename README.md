@@ -60,6 +60,7 @@ The Indexing in GitHub Corresponds to Indexing in my local system.
 | 39 | 1 | 1.Customer-Propensity-RFM-Purchase-Modelling |
 | 40 | 1 | 1.Data-Visualisations-using-Power-BI-master |
 | 41 | 1 | 1.lead-scoring-model-python-main |
+| 42 | 138 | AB-Testing |
 
 
 
