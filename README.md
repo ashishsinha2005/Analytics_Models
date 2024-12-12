@@ -55,6 +55,7 @@ The Indexing in GitHub Corresponds to Indexing in my local system.
 | 34 | 8 | Model Deployment-Strealmit-Movie Recommendation System |
 | 35 | Models100 | Cancer Detection |
 | 36 | Models82 | NLP SVM |
+| 37 | 136 | CLTV Model |
 
 
 
