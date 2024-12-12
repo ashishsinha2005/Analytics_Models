@@ -9,7 +9,7 @@ The company markets its courses on several websites and search engines like Goog
 
 Now, although X Education gets a lot of leads, its lead conversion rate is very poor. For example, if, say, they acquire 100 leads in a day, only about 30 of them are converted. To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’. If they successfully identify this set of leads, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone.
 
-<img src = 'https://www.rakacreative.com/wp-content/uploads/2017/01/raka_blog_lead_scoring-1480x550.png'>
+![image alt](https://github.com/ashishsinha2005/Analytics_Models/blob/26556c5fae5ec43fe2e201782fa4a3044717fec9/1.lead-scoring-model-python-main/64a7f3403b57d3e024e3c68c_Picture24wqg.jpg)
 
 There are a lot of leads generated in the initial stage (top) but only a few of them come out as paying customers from the bottom. In the middle stage, you need to nurture the potential leads well (i.e. educating the leads about the product, constantly communicating, etc. ) in order to get a higher lead conversion.
 
