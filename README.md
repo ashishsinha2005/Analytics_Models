@@ -1,76 +1,26 @@
 
-# Analytics Models
+## K-Means-and-Principal-Component-Analysis
 
-This Repository has the Following Models related to Various statistical Models.
+Implementation of K-Means and Principal Component Analysis from scratch in Python 3.0 and in scikit learn.
 
-Data files are not uploaded for some Models due to their large size. Please feel free to reach out to me for the data file. 
+## Situation:
 
-The Indexing in GitHub Corresponds to Indexing in my local system.
+The organization sought to improve revenue growth by prioritizing larger, high-potential partners. Traditional methods of partner segmentation were ineffective in identifying and targeting those partners capable of driving enterprise-level deals and contracts. A more data-driven approach was required to achieve measurable business growth.
 
+## Task:
 
+The objective was to design a solution that segmented partners based on their business potential and historical sales data, enabling a focused approach to resource allocation and strategic engagement. This would allow the organization to achieve a 30% growth in enterprise-level deals and larger contracts.
 
+## Action:
 
-
-
-
-
-
-
-
-| Indexing| Indexing in Github     | Title                |
-| :-------- | :------- | :------------------------- |
-| 1 | 1.10 |implement SVR Graduate Admission
-| 2 | 1.11 | time series analysis
- | 3 | 1.12 |car price prediction using linear and lasso regression |
-| 4 | 1.14 | K Means Clustering |
-| 5 | 1.2 | churn prediction using machine learning |
-| 6 | 1.4 | prediction insurance cost using linear regression using ML |
-| 7 | 1.5 | predicting heart disease using logistic regression |
-| 8 | 1.6 | market basket Analysis |
-| 9 | 1.7 | logistic regression_HumanActivity_SmartphoneData |
-| 10 | 1.8 | gold price prediction using randome forest regressor and ML |
-| 11 | 2.1 | decision tree classifier |
-| 12 | 2.10 | bike buyer prediction |
-| 13 | 2.12 | spotify songs data analysis |
-| 14 | 2.14 | milk quality prediction |
-| 15 | 2.17 | decision tree regression |
-| 16 | 2.19 | KNN |
-| 17 | 2.2 | predicting wine qulity |
-| 18 | 2.20 | logistic regression implementation |
-| 19 | 2.7 | diamond rice prediction |
-| 20 | 3.10 | retail sales prediction model |
-| 21 | 3.11 | linear regression model(algerian) |
-| 22 | 3.1 | Time Series Visualization from Raw data to insights |
-| 23 | 3.3 | logistic regression(algerian) |
-| 24 | 3.4 | Algerian forest data linear regression |
-| 25 | 4.1 | Adult Income dataset Classification Model |
-| 26 | 4.2 | brazilian ecommerce analysis |
-| 27 | 4.4 | stock market analysis and prediction |
-| 28 | 4.5 | regression model implementation flight fare |
-| 29 | 4.7 | diabetes |
-| 30 | 4.8 | laptop price |
-| 31 | 5.11 | electricity-consumption-forecast-with-xgboost |
-| 32 | 6 | Model Deployment- Flask-Diabetes Classification |
-| 33 | 7 | Online-Shoppers-Purchasing-Intention-master |
-| 34 | 8 | Model Deployment-Strealmit-Movie Recommendation System |
-| 35 | Models100 | Cancer Detection |
-| 36 | Models82 | NLP SVM |
-| 37 | 136 | Customer life time value Model |
-| 38 | 1 | 1.anomaly-detection-main |
-| 39 | 1 | 1.Customer-Propensity-RFM-Purchase-Modelling |
-| 40 | 1 | 1.Data-Visualisations-using-Power-BI-master |
-| 41 | 1 | 1.lead-scoring-model-python-main |
-| 42 | 138 | AB-Testing |
+The project employed advanced clustering techniques to group partners into meaningful segments.
+•	K-means clustering was utilized to group partners based on features such as revenue, deal size, and sales potential.
+•	Principal Component Analysis (PCA) was applied to reduce dimensionality and highlight key features that significantly impacted clustering.
+The model leveraged historical sales data and business indicators to identify high-priority partners with the greatest growth potential.
+•	fuzzy matching,Snowflake,Automated web portal dashboards.
 
 
 
-
-
-
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at ashishsep2011@gmail.com
+## Result:
+The Optimized Partner Mapping solution enabled the organization to focus its efforts on larger partners, driving a 30% growth in enterprise-level deals and larger contracts. By leveraging actionable insights from clustering, the sales and partner management teams were able to allocate resources effectively and establish targeted strategies that maximized revenue potential.
 
