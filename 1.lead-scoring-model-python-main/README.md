@@ -15,7 +15,7 @@
 - Built ensemble models to combine multiple classifiers, improving lead scoring accuracy and reliability.
 -	Integrated the models into Salesforce to streamline lead prioritization and enable real-time scoring for the sales team.
 
-#Result:
+# Result:
 - The improved lead scoring system reduced response time by 20%, allowing the sales team to focus on high-value opportunities.
 - The enhanced accuracy in lead prioritization significantly improved pipeline efficiency, demonstrating the impact of machine learning in driving sales performance.
 
