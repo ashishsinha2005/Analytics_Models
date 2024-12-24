@@ -16,9 +16,9 @@ Task:
 
 Action:
 A Power BI Dashboard was developed to address these challenges. Key actions included:
-•	Designing interactive visualizations to highlight bottlenecks and deal progression.
-•	Incorporating detailed segmentation across critical dimensions like geography, products, and routes to market.
-•	Leveraging real-time data to track weekly deal status changes and identify growth opportunities.
+-	Designing interactive visualizations to highlight bottlenecks and deal progression.
+-	Incorporating detailed segmentation across critical dimensions like geography, products, and routes to market.
+-	Leveraging real-time data to track weekly deal status changes and identify growth opportunities.
 
 Result:
 - The dashboard led to a 15% increase in sales conversion rates by enabling the sales team to identify and address pipeline bottlenecks effectively. 
