@@ -30,7 +30,8 @@
       <div class="col-md-12">
         <div class="project-details">
           <h3><strong>Situation:</strong></h3>
-          <p>SaaS operations were frequently affected by undetected abnormal system behaviors, leading to unreliable performance, user dissatisfaction, and higher operational costs. The lack of a robust detection mechanism made it difficult to address issues proactively, often resulting in prolonged downtimes.</p>
+          <p>SaaS operations were frequently affected by undetected abnormal system behaviors, leading to unreliable performance, user dissatisfaction, and higher operational costs. 
+            <li>The lack of a robust detection mechanism made it difficult to address issues proactively, often resulting in prolonged downtimes.</p>
           <h3><strong>Task:</strong></h3>
           <p>The objective was to design and deploy an efficient anomaly detection system that could accurately identify unusual system activities, enabling quicker resolution of issues to ensure uninterrupted service delivery and improved system reliability.</p>
           <h3><strong>Action:</strong></h3>
