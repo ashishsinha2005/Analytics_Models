@@ -1,21 +1,21 @@
 # Lead Scoring Model
 
 
-# Situation:
+## Situation:
 
 - The sales team struggled with inefficient lead prioritization, leading to delayed follow-ups and missed opportunities.
 - The absence of accurate lead scoring models hampered their ability to focus on high-priority leads, negatively impacting pipeline performance.
 
-# Task:
+## Task:
 - The objective was to improve the lead scoring process within Salesforce by leveraging machine learning to enhance accuracy and efficiency, ultimately reducing response time and optimizing sales outcomes.
 
-# Action:
+## Action:
 - The lead scoring models were revamped using advanced machine learning techniques.
 - Implemented Bagging and Boosting algorithms to enhance the stability and performance of predictions.
 - Built ensemble models to combine multiple classifiers, improving lead scoring accuracy and reliability.
 -	Integrated the models into Salesforce to streamline lead prioritization and enable real-time scoring for the sales team.
 
-# Result:
+## Result:
 - The improved lead scoring system reduced response time by 20%, allowing the sales team to focus on high-value opportunities.
 - The enhanced accuracy in lead prioritization significantly improved pipeline efficiency, demonstrating the impact of machine learning in driving sales performance.
 
