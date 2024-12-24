@@ -18,10 +18,12 @@
   </ul>
   <h2 id="introduction">Introduction</h2>
   <p>
+    <ol>
     <li>Anomaly detection plays a crucial role in identifying and mitigating potential security threats.<li>
     <li>This project focuses on detecting anomalies in user login behavior, which can help identify suspicious activities such as unauthorized access attempts or compromised user accounts.<li>
     <li>The project utilizes machine learning techniques, specifically XGBoost, to train an anomaly detection model based on a labeled dataset.<li>
     <li>The trained model can then be used to classify new login events as normal or anomalous based on their features.<li>
+    <ol>
   </p>
   <h2 id="installation">Installation</h2>
   <ol>
