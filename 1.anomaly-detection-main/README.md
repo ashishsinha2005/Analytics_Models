@@ -30,14 +30,15 @@
       <div class="col-md-12">
         <div class="project-details">
           <h3><strong>Situation:</strong></h3>
-          <p>SaaS operations were frequently affected by undetected abnormal system behaviors, leading to unreliable performance, user dissatisfaction, and higher operational costs. 
+          <p><li>SaaS operations were frequently affected by undetected abnormal system behaviors, leading to unreliable performance, user dissatisfaction, and higher operational costs. 
             <li>The lack of a robust detection mechanism made it difficult to address issues proactively, often resulting in prolonged downtimes.</p>
           <h3><strong>Task:</strong></h3>
-          <p>The objective was to design and deploy an efficient anomaly detection system that could accurately identify unusual system activities, enabling quicker resolution of issues to ensure uninterrupted service delivery and improved system reliability.</p>
+          <p><li>The objective was to design and deploy an efficient anomaly detection system that could accurately identify unusual system activities, enabling quicker resolution of issues to ensure uninterrupted service delivery and improved system reliability.</p>
           <h3><strong>Action:</strong></h3>
-          <p>Leveraged machine learning techniques such as Isolation Forest and Autoencoders to build an anomaly detection model. The system was integrated into the SaaS platform to monitor real-time operations, flagging potential anomalies and providing actionable insights for faster resolution.</p>
+          <p><li>Leveraged machine learning techniques such as Isolation Forest and Autoencoders to build an anomaly detection model.
+            <li>The system was integrated into the SaaS platform to monitor real-time operations, flagging potential anomalies and providing actionable insights for faster resolution.</p>
           <h3><strong>Result:</strong></h3>
-          <p>The implemented solution reduced system downtime by 25%, improved the platform's operational efficiency, and ensured quicker responses to potential system failures, enhancing both performance and user experience.</p>
+          <p><li>The implemented solution reduced system downtime by 25%, improved the platform's operational efficiency, and ensured quicker responses to potential system failures, enhancing both performance and user experience.</p>
         </div>
       </div>
     </div>
