@@ -18,10 +18,10 @@
   </ul>
   <h2 id="introduction">Introduction</h2>
   <p>
-    Anomaly detection plays a crucial role in identifying and mitigating potential security threats.
-    This project focuses on detecting anomalies in user login behavior, which can help identify suspicious activities such as unauthorized access attempts or compromised user accounts.
-    The project utilizes machine learning techniques, specifically XGBoost, to train an anomaly detection model based on a labeled dataset.
-    The trained model can then be used to classify new login events as normal or anomalous based on their features.
+    - Anomaly detection plays a crucial role in identifying and mitigating potential security threats.
+    - This project focuses on detecting anomalies in user login behavior, which can help identify suspicious activities such as unauthorized access attempts or compromised user accounts.
+    - The project utilizes machine learning techniques, specifically XGBoost, to train an anomaly detection model based on a labeled dataset.
+    - The trained model can then be used to classify new login events as normal or anomalous based on their features.
   </p>
   <h2 id="installation">Installation</h2>
   <ol>
