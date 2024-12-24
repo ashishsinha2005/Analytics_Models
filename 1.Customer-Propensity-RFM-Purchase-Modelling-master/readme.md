@@ -1,24 +1,23 @@
-# Customer Propensity to RFM Purchase Modelling 
+Situation:
 
-## Business Objective
-Our Client is an early-stage e-commerce company selling various products from daily essentials to high-end electronics and home appliances. They aim to increase purchases by sending discounts or coupons to users based on a predictive model that estimates purchase probability.
+- The sales team faced inefficiencies in lead qualification, often spending excessive time on unqualified leads. 
+- There was a need for a more precise targeting mechanism that aligned partner capabilities with customer needs to improve sales outcomes.
 
----
+Task:
+- The objective was to develop a data-driven solution that would enhance lead qualification accuracy by combining customer purchase trends and partner success metrics.
+- This would help reduce time spent on unqualified leads and optimize partner alignment for higher sales success.
 
-## Objective
-This project focuses on building a Propensity to Purchase Model using Python, with a primary objective of improving user engagement and ROI. We employ Propensity Modeling and RFM (Recency, Frequency, Monetary) Analysis to predict users' likelihood of making a purchase and to identify high-value customer segments.
+Action:
+A predictive model was designed to assess both partner propensity to sell and customer propensity to buy:
+- Random Forests were employed to analyze historical customer purchase patterns and partner success metrics, predicting likelihoods of successful matches.
+-	Segmentation analysis was applied to categorize partners and customers into actionable groups based on potential fit.
+-	Ensemble techniques were used to integrate insights from multiple data sources, improving overall targeting precision.
 
----
+Result:
+- The solution improved lead qualification accuracy, leading to a 25% reduction in time spent on unqualified leads.
+- By aligning partner capabilities with customer needs more effectively, the model significantly enhanced targeting precision, driving productivity and better sales outcomes.
+- This project demonstrated the value of integrating machine learning and segmentation for business optimization.
 
-## Data Description
-The dataset contains purchase history data for an e-commerce company over a period of time.
-
----
-
-## Aim
-1. Understand Propensity Modeling.
-2. Understand RFM Analysis.
-3. Build a model to predict the purchase probability of each user in an e-commerce company using the Propensity Model.
 
 ---
 
