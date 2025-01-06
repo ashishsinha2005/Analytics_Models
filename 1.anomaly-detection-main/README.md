@@ -18,10 +18,33 @@
   </ul>
   <h2 id="introduction">Introduction</h2>
   <p>
-    Anomaly detection plays a crucial role in identifying and mitigating potential security threats.
-    This project focuses on detecting anomalies in user login behavior, which can help identify suspicious activities such as unauthorized access attempts or compromised user accounts.
-    The project utilizes machine learning techniques, specifically XGBoost, to train an anomaly detection model based on a labeled dataset.
-    The trained model can then be used to classify new login events as normal or anomalous based on their features.
+    <section class="ftco-section" id="anomaly-detection">
+  <div class="container">
+    <div class="row justify-content-center mb-5 pb-5">
+      <div class="col-md-7 heading-section text-center ftco-animate">
+        <h1 class="big big-2">Anomaly Detection System for SaaS Operations</h1>
+        <h2 class="mb-4">Business Problem and Solution Overview</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="project-details">
+          <h3><strong>Situation:</strong></h3>
+          <p><li>SaaS operations were frequently affected by undetected abnormal system behaviors, leading to unreliable performance, user dissatisfaction, and higher operational costs. 
+            <li>The lack of a robust detection mechanism made it difficult to address issues proactively, often resulting in prolonged downtimes.</p>
+          <h3><strong>Task:</strong></h3>
+          <p><li>The objective was to design and deploy an efficient anomaly detection system that could accurately identify unusual system activities, enabling quicker resolution of issues to ensure uninterrupted service delivery and improved system reliability.</p>
+          <h3><strong>Action:</strong></h3>
+          <p><li>Leveraged machine learning techniques such as Isolation Forest and Autoencoders to build an anomaly detection model.
+            <li>The system was integrated into the SaaS platform to monitor real-time operations, flagging potential anomalies and providing actionable insights for faster resolution.</p>
+          <h3><strong>Result:</strong></h3>
+          <p><li>The implemented solution reduced system downtime by 25%, improved the platform's operational efficiency, and ensured quicker responses to potential system failures, enhancing both performance and user experience.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
   </p>
   <h2 id="installation">Installation</h2>
   <ol>
