@@ -5,7 +5,7 @@ This Repositary has Following Models related to Natutal Langauage Processing.
 
 Data files are not not uploaded for some Models due to Large size.Please feel free to reach out to me for data file. 
 
-The Indexing in github Correspond to Indexing in my local system.
+The Indexing in github Correspond to Indexing in my local system. Please ignore this number.
 
 
 
@@ -50,6 +50,18 @@ The Indexing in github Correspond to Indexing in my local system.
 | 29 | 4.7 | diabetes |
 | 30 | 4.8 | laptop price |
 | 31 | 5.11 | electricity-consumption-forecast-with-xgboost |
+| 32 | 7 | Online_Shoppers_Purchasing_Intention |
+| 33 | 1 | anomaly-detection-main |
+| 34 | 1 | Customer-Propensity-RFM-Purchase-Modelling-master |
+| 35 | 1 | Data-Visualisations-using-Power-BI-master |
+| 36 | 1 | lead-scoring-model-python-main |
+| 37 | 3.10 | sales prediction model |
+| 38 | 6 | Model_Deployment_Diabetes_Prediction|
+| 39 | 8 | Models_Movie-Recommendation-System-main |
+| 40 | 136 | CLV |
+| 41 | 138 | A-B-testing-with-Machine-Learning-master |
+| 42 | 140 | K-Means-and-Principal-Component-Analysis-master |
+| 43 | 141 | Ecommerce-product-recommendation-system-main |
 
 
 
