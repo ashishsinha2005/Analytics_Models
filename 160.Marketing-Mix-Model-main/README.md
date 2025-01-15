@@ -7,11 +7,9 @@ Advertisers use marketing mix models, also known as media mix models, to measure
 
 The purpose of this project is to explore building a marketing mix model using simulated weekly marketing and sales data. The model will attempt to predict a change in sales volume based on changes in spend for TV and paid search advertisements.
 
-# Data
-The data for this model was generated using the Aggregate Marketing System Simulator (AMASS) [4], an open source R package provided by Google, Inc for research purposes. Code was obtained from [Google GitHub](https://github.com/google/amss/blob/master/vignettes/amss-vignette.Rmd) [2].
 
-[R Code](https://github.com/deejayrusso/Marketing-Mix-Model/blob/main/Data%20Generation%20-%20AMSS.R)<br>
-[Simulated Data](https://github.com/deejayrusso/Marketing-Mix-Model/blob/main/ObservedData.csv)
+
+
 
 Variables used:<br>
 * <b>tv.spend:</b> Weekly dollar spend on TV advertisement 
@@ -67,13 +65,5 @@ Areas for future improvement include:
         * This will help inform decisions to fund each channel sufficiently without overspending past the point of diminishing returns
     * Interface could also use data entry fields to add new actual spends and revenue to keep data current on a weekly basis
  
-# Sources
-[1] Chan, D., & Perry, M. (2017). Challenges and opportunities in media mix modeling. https://services.google.com/fh/files/misc/challenges_and_opportunities_in_media_mix_modeling.pdf
 
-[2] Google, Inc. (2017) Google AMSS GitHub page. https://github.com/google/amss/blob/master/vignettes/amss-vignette.Rmd
-
-[3] Yeo, I.-K., & Johnson, R. A. (2000). A New Family of Power Transformations to Improve Normality or Symmetry. Biometrika, 87(4), 954–959. http://www.jstor.org/stable/2673623
-
-[4] Zhang, S. and Vaver, J. (2017). The Aggregate Marketing System Simulator.
-*[https://research.google.com/pubs/pub45996.html](https://research.google.com/pubs/pub45996.html)*.
 
