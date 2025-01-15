@@ -1,6 +1,6 @@
 # Marketing-Mix-Model
 Simple marketing mix model exploring sales as a function of media spend. 
-Demo: https://www.youtube.com/watch?v=WSF941rR6jE
+
 
 # Introduction
 Advertisers use marketing mix models, also known as media mix models, to measure the effectiveness of various advertising channels on improving a metric [1], such as sales or return on investment (ROI). These models use time series data to model an outcome resulting from advertising variables, usually marketing or media spend [1]. <Br>
