@@ -62,6 +62,8 @@ The Indexing in github Correspond to Indexing in my local system. Please ignore 
 | 41 | 138 | A-B-testing-with-Machine-Learning-master |
 | 42 | 140 | K-Means-and-Principal-Component-Analysis-master |
 | 43 | 141 | Ecommerce-product-recommendation-system-main |
+| 44 | Models82 | NLP SVM |
+| 45 | 160 | Market mix Modelling |
 
 
 
