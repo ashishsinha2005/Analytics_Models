@@ -22,3 +22,7 @@
 ## Result:
 - The model improved license renewal prediction accuracy by 35%, leading to a 30% increase in renewals. 
 - This proactive approach saved $2 million annually in retention efforts and optimized resource allocation.
+
+![image alt](https://github.com/ashishsinha2005/Analytics_Models/blob/master/166.awssagemaker/proj_35.jpg)
+
+
