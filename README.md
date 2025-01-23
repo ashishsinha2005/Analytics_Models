@@ -64,7 +64,10 @@ The Indexing in github Correspond to Indexing in my local system. Please ignore 
 | 43 | 141 | Ecommerce-product-recommendation-system-main |
 | 44 | Models82 | NLP SVM |
 | 45 | 160 | Market mix Modelling |
-| 45 | 164 | customer-segmentatio |
+| 46 | 164 | customer-segmentation |
+| 47 | 166 | AWS Sagemaker |
+| 48 | 167 | Pricing-Analytics |
+| 49 | 168 | Voting Classifier |
 
 
 
