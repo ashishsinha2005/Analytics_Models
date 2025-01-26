@@ -20,14 +20,6 @@ User cold start: One way to address the user cold start problem is to use collab
 Item cold start: One way to address the item cold start problem is to use content-based filtering. Content-based filtering works by analyzing the content of an item and then recommending items that are similar in content.
 Hybrid approaches: Hybrid approaches combine collaborative filtering and content-based filtering to make recommendations. Hybrid approaches can be more effective than either collaborative filtering or content-based filtering alone.
 
-## Dataset
-
-I have used an amazon dataset on user ratings for electronic products, this dataset doesn't have any headers. To avoid biases,  each product and user is assigned a unique identifier instead of using their name or any other potentially biased information.
-
-* You can find the [dataset](https://www.kaggle.com/datasets/vibivij/amazon-electronics-rating-datasetrecommendation/download?datasetVersionNumber=1) 
-
-* You can find many other similar datasets here - https://jmcauley.ucsd.edu/data/amazon/
-
 
 ## Approach
 
