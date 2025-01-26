@@ -49,21 +49,7 @@ Marketing mix models have been used by advertisers for decades to measure how ef
 
 Of the eight models explored here, four models were extremely similar in terms of error reduction with the lasso regression model being slightly better than the others. Unfortunately, interpretability of the model is not straightforward due to the Yeo-Johnson power transformations that were used to normalize the data. 
 
-Areas for future improvement include:
-* Full interpretation of applying the model to guide decision making
-    * Further research into Yeo-Johnson transformations
-    * Explore using more easily explained transformations (ie: log, square-root, etc.) if error is not increased
-* Exploring the use of an ensemble model
-    * Create additional model for lag effects of advertising
-    * Create additional model for diminishing returns on advertising spend
-    * A base sales model could also be used to simulate lift over base sales
-    * Stack additional models with media mix model to explore modeling more complex interactions
-* Dashboard or web application for stakeholder interface
-    * Deploy model with user interface once models are acceptable for production
-    * Options could include using a Model-View-Control (MVC) framework in C# or Model-Template-View (MTV) framework in  python (Django)
-    * User interface should allow for input of spend scenarios to simulate revenue outcomes to help stakeholders optimize marketing budgets across channels
-        * This will help inform decisions to fund each channel sufficiently without overspending past the point of diminishing returns
-    * Interface could also use data entry fields to add new actual spends and revenue to keep data current on a weekly basis
+
  
 
 
