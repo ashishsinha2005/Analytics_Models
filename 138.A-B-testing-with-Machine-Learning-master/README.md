@@ -11,7 +11,7 @@
 
 ## Action
 - Executed A/B tests on multiple versions of the feature using advanced techniques like Bayesian Model, Decision Tree, XGBoost, and Synthetic Test-Control.
--  Employed statistical hypothesis testing and utilized Bagging, Boosting, and Ensembling methods to evaluate and optimize the feature’s performance across different user segments.
+-  Employed statistical hypothesis testing and utilized Bagging, Boosting,H2O, and Ensembling methods to evaluate and optimize the feature’s performance across different user segments.
 
 ## Result
 - The A/B testing strategy successfully increased the feature's adoption rate by 20% and improved customer satisfaction scores by 15%.
