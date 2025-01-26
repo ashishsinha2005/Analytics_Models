@@ -27,7 +27,7 @@ Hybrid approaches: Hybrid approaches combine collaborative filtering and content
 Objective -
 * Recommend products with highest number of ratings.
 * Target new customers with most popular products.
-* Solve the [Cold Start Problem](https://github.com/Vaibhav67979/Ecommerce-product-recommendation-system/blob/18d7fb2b8feafd117f7c3f9f859255c2e28cfbe4/ColdStartProblem.md)
+
 
 Outputs -
 * Recommend top 5 products with 50/100 minimum ratings/interactions.
