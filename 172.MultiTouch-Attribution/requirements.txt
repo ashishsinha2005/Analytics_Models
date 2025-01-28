@@ -1,0 +1,5 @@
+numpy
+gekko
+seaborn
+matplotlib
+pandas
