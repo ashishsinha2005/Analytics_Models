@@ -68,6 +68,11 @@ The Indexing in github Correspond to Indexing in my local system. Please ignore 
 | 47 | 166 | AWS Sagemaker |
 | 48 | 167 | Pricing-Analytics |
 | 49 | 168 | Voting Classifier |
+| 50 | 170 |campaign-analysis-and-a-b-testing |
+| 51 | 171 | marketing-campaign-analysis |
+| 52 | 172 | MultiTouch-Attribution |
+| 53 | 173 | Granger Causality Test |
+| 54 | 174 | Recommendation-System |
 
 
 
